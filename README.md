@@ -1,0 +1,1 @@
+This Python code implements a trading bot that interacts with the Alpaca API to trade cryptocurrency (BTC/USD and ETH/USD) based on simple moving average (SMA) crossovers. It fetches historical price data, calculates trading signals, and places buy or sell orders
